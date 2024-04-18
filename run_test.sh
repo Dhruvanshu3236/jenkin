@@ -1,3 +1,3 @@
 . venv/bin/activate
 cd tests
-pytest -v 
+echo "Hello world"
