@@ -17,4 +17,4 @@ def client(app):
 
 def test_product_api(client):
     res = client.get(url_for('product_api.get_product'))
-    print(res.json)
+    res.json == 2011
