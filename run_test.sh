@@ -1,2 +1,3 @@
 . venv/bin/activate
-pip3 list
+cd tests
+pytest -v 
