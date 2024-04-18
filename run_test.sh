@@ -1,2 +1,2 @@
-source venv/bin/activate
+. venv/bin/activate
 pytest -v tests
