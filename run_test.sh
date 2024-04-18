@@ -1,2 +1,2 @@
 . venv/bin/activate
-pip3
+pip3 list
